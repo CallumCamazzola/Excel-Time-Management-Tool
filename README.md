@@ -1,6 +1,6 @@
 # Time Management & Study Optimization Tool
 
-![Alt Text](graphical/output-1.png)
+![Alt Text](graphical output-1.png)
 
 ## Overview
 The **Time Management & Study Optimization Tool** is an intelligent Excel-based planner designed to help students effectively manage their workload, prioritize tasks, and optimize study time. Utilizing advanced sorting algorithms, this tool dynamically organizes daily tasks based on urgency, importance, and time consumption, ensuring users focus on what matters most.
