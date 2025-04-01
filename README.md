@@ -1,6 +1,7 @@
 # Time Management & Study Optimization Tool
 
-![Screenshot]()
+![Alt Text](Screenshots/![graphical output-1](https://github.com/user-attachments/assets/436624d4-b105-496d-8199-27d8edb39bff)
+)
 
 
 ## Overview
